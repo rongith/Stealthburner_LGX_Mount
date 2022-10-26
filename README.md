@@ -3,7 +3,7 @@
 
 ![StealthBurner_LGX_Mount.png](./Images\StealthBurner_LGX_Mount.png)
 I didn't find a mounting with some bells and whistle I wanted to use my LGX with the Stealthburner then I designed my own.
-It is designed to be used on both versions of rail carriage. The one we screw on the back (Afterburner carriage) and the one we screw on the front (Stealthburner carriage).
+It is designed to be used on both versions of rail carriage. The one we screw on the back (Afterburner carriage) and the one we screw on the front (Stealthburner carriage). I only fully tested with the Stealthburner carriage.
 The 3D printed parts may not follow the Voron design recommendations.
 All photos are not of the same version of the files. I didn't want to shoot the whole sequence of the mounting after each design iteration.
 ## Parts

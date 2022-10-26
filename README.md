@@ -64,5 +64,5 @@ Mount the toolhead. Take attention to not pinch the toolhead wires between the S
 ![012.jpg](./Images/012.jpg)
 Voilà.
 ## Cover
-![Cover-HolesPlaces.png](./Images\Cover-HolesPlaces.png)
+![Cover-HolesPlaces.png](./Images/Cover-HolesPlaces.png)
 The dimensions to design a future cover.

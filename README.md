@@ -3,6 +3,7 @@
 
 ![StealthBurner_LGX_Mount.png](./Images\StealthBurner_LGX_Mount.png)
 I didn't find a mounting with some bells and whistle I wanted to use my LGX with the Stealthburner then I designed my own.
+It is designed to be used on both versions of rail carriage. The one we screw on the back (Afterburner carriage) and the one we screw on the front (Stealthburner carriage).
 The 3D printed parts may not follow the Voron design recommendations.
 All photos are not of the same version of the files. I didn't want to shoot the whole sequence of the mounting after each design iteration.
 ## Parts
@@ -10,7 +11,7 @@ All photos are not of the same version of the files. I didn't want to shoot the 
 - LGX mount (2 objects)
 - LGX wheel cover
 
-Hardware:
+Additionnal hardware:
 - M3x20 (x2). SHCS / ISO 4762 recommended
 - M3x30 (x2). SHCS / ISO 4762 recommended
 - M3x6 (x1). FHCS / ISO 10642 recommended
@@ -21,6 +22,8 @@ Hardware:
 Put insert in the 3 holes.
 Take care to get the insert quite well straight. It is for the stealthburner to move easily on the M3x25 screws afterward when you want to swap the toolhead.
 The insert on the left (of the photo) is to screw a future cover.
+![001-2.jpg](./Images\001-2.jpg)
+In case you want to use the rail carriage that has holes to screw on the back, add insert in the highlighted holes.
 ![002.jpg](./Images\002.jpg)
 Add the back of the mounting. It should fit on the rectangular joint. It doesn't have to be separated from the mounting. Then I choose to glue it but it is really not mandatory.
 ![003.jpg](./Images\003.jpg)

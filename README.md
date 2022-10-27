@@ -16,7 +16,7 @@ All photos are not of the same model version. I didn't want to shoot the whole s
 
 Additional hardware:
 - M3x20 (x2). SHCS / ISO 4762 recommended
-- M3x30 (x2). SHCS / ISO 4762 recommended
+- M3x30 (x2). SHCS / ISO 4762 recommended (M3x25 is enough for the screws on the back mounting)
 - M3x6 (x1). FHCS / ISO 10642 recommended
 - M3 Heat insert (x3).
 
@@ -28,8 +28,8 @@ Take care to get the insert quite well straight. It is for the stealthburner to 
 
 The insert on the left (of the photo) edge is to screw a future cover.
 
-![001-2.jpg](./Images/001-2.jpg)
-In case you want to use the rail carriage that has holes to screw on the back, add insert in the highlighted holes.
+![001-3.jpg](./Images/001-3.jpg)
+In case you want to use the rail carriage that has holes to screw on the back (CW1), add two more inserts in the back of the part.
 
 ![002.jpg](./Images/002.jpg)
 Add the back of the mounting. It should fit on the rectangular joint. It doesn't have to be separated from the mounting. Then I choose to glue it but it is really not mandatory.
@@ -45,6 +45,9 @@ There is a hole in the front of the mounting to check if the PTFE tube go well t
 
 ![006.jpg](./Images/006.jpg)
 Screw the mounting on the Carriage with 2 M3x30.
+
+![006-2.jpg](./Images/006-2.jpg)
+In case you want to use the rail carriage that has holes to screw on the back (CW1), screw the mounting on the Carriage with 2 M3x25 or M3X30.
 
 ![007.jpg](./Images/007.jpg)
 Pass the Stealthburner wires with their connectors in the right square hole.

@@ -1,6 +1,5 @@
 # Stealthburner_LGX_Mount
 ## Introduction
-
 ![StealthBurner_LGX_Mount.png](./Images/StealthBurner_LGX_Mount.png)
 I didn't find a mounting with some bells and whistles I wanted to use my LGX with the Stealthburner. Then I designed my own.
 
@@ -9,6 +8,7 @@ It be compatible with both versions of rail carriage. The one we screw on the ba
 The 3D printed parts may not follow the Voron design recommendations.
 
 All photos are not of the same model version. I didn't want to shoot the whole sequence of the mounting after each design iteration.
+
 ## Parts
 3D printed:
 - LGX mount (2 objects)
@@ -66,6 +66,7 @@ Mount the toolhead. Take attention to not pinch the toolhead wires between the S
 
 ![012.jpg](./Images/012.jpg)
 Voilà.
+
 ## Cover
 ![Cover-HolesPlaces.png](./Images/Cover-HolesPlaces.png)
 The dimensions to design a future cover.

@@ -20,7 +20,7 @@ Additional hardware:
 - M3x6 (x1). FHCS / ISO 10642 recommended
 - M3 Heat insert (x3).
 
-## Mounting
+## LGX Mounting
 ![001.jpg](./Images/001.jpg)
 Put insert in the 3 holes.
 

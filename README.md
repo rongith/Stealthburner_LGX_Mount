@@ -68,5 +68,6 @@ Mount the toolhead. Take attention to not pinch the toolhead wires between the S
 Voilà.
 
 ## Cover
-![Cover-HolesPlaces.png](./Images/Cover-HolesPlaces.png)
-The dimensions to design a future cover.
+Based on wile.e1 cover for Stealthburner and CW1 (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover)
+![013.jpg](./Images/013.jpg)
+Screw: M3x8. M3x6 works too.

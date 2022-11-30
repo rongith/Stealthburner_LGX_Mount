@@ -12,11 +12,11 @@ All photos are not of the same design iteration. I didn't want to shoot the whol
 ## Parts
 3D printed:
 - Mounting
-| Filename | Description |
-|---|---|
-| LGX-Mount-SW-rxxx - 1.STL | Mounting part 1 |
-| LGX-Mount-SW-rxxx - 2.STL | Mounting part 2 |
-| LGX-GearCover-rxxx.STL | LGX gear wheel cover |
+| Filename                  | Description          |
+|---------------------------|----------------------|
+| LGX-Mount-SW-rxxx - 1.STL | Mounting part 1      |
+| LGX-Mount-SW-rxxx - 2.STL | Mounting part 2      |
+| LGX-GearCover-rxxx.STL    | LGX gear wheel cover |
 
 - Cover
 | Filename | Description |

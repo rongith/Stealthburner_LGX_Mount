@@ -13,15 +13,18 @@ All photos are not of the same design iteration. I didn't want to shoot the whol
 3D printed:
 - Mounting
 | Filename | Description |
+|---|---|
 | LGX-Mount-SW-rxxx - 1.STL | Mounting part 1 |
 | LGX-Mount-SW-rxxx - 2.STL | Mounting part 2 |
 | LGX-GearCover-rxxx.STL | LGX gear wheel cover |
 
 - Cover
-|Filename|Description|
-|[a]_LGX_Stealthburner_Cover-rxxx - noPCB.STL|Stealthburner side cable cover - noPCB version|
-|[a]_LGX_Stealthburner_Cover-rxxx - PCB-1.STL|Stealthburner side cable cover - PCB version|
-|[a]_LGX_Stealthburner_Cover-rxxx - PCB-2.STL|Stealthburner side cable cover spacer - PCB version|
+| Filename | Description |
+|---|---|
+| [a]_LGX_Stealthburner_Cover-rxxx - noPCB.STL | Stealthburner side cable cover - noPCB version |
+| [a]_LGX_Stealthburner_Cover-rxxx - PCB-1.STL | Stealthburner side cable cover - PCB version |
+| [a]_LGX_Stealthburner_Cover-rxxx - PCB-2.STL | Stealthburner side cable cover spacer - PCB version |
+
 For the moment [a]_LGX_Stealthburner_Cover-rxxx - PCB files are useless because it is not possible to mount the PCB on th mounting. I may try to make it possible.
 
 Additional hardware:

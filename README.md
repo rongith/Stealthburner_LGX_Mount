@@ -27,7 +27,7 @@ All photos are not of the same design iteration. I didn't want to shoot the whol
 | [a]_LGX_Stealthburner_Cover-rxxx - PCB-1.STL | Stealthburner side cable cover - PCB version |
 | [a]_LGX_Stealthburner_Cover-rxxx - PCB-2.STL | Stealthburner side cable cover spacer - PCB version |
 
-For the moment [a]_LGX_Stealthburner_Cover-rxxx - PCB files are useless because it is not possible to mount the PCB on th mounting. I may try to make it possible.
+For the moment Cover PCB version files are useless because it is not possible to mount the PCB on the mounting. I may try to make it possible.
 
 Additional hardware:
 - M3x20 (x2). SHCS / ISO 4762 recommended

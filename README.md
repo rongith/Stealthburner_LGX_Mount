@@ -11,8 +11,18 @@ All photos are not of the same design iteration. I didn't want to shoot the whol
 
 ## Parts
 3D printed:
-- LGX mount (2 objects)
-- LGX wheel cover
+- Mounting
+| Filename | Description |
+| LGX-Mount-SW-rxxx - 1.STL | Mounting part 1 |
+| LGX-Mount-SW-rxxx - 2.STL | Mounting part 2 |
+| LGX-GearCover-rxxx.STL | LGX gear wheel cover |
+
+- Cover
+|Filename|Description|
+|[a]_LGX_Stealthburner_Cover-rxxx - noPCB.STL|Stealthburner side cable cover - noPCB version|
+|[a]_LGX_Stealthburner_Cover-rxxx - PCB-1.STL|Stealthburner side cable cover - PCB version|
+|[a]_LGX_Stealthburner_Cover-rxxx - PCB-2.STL|Stealthburner side cable cover spacer - PCB version|
+For the moment [a]_LGX_Stealthburner_Cover-rxxx - PCB files are useless because it is not possible to mount the PCB on th mounting. I may try to make it possible.
 
 Additional hardware:
 - M3x20 (x2). SHCS / ISO 4762 recommended
@@ -72,5 +82,5 @@ Based on wile.e1 cover for Stealthburner and CW1 (https://github.com/VoronDesign
 ![013.jpg](./Images/013.jpg)
 Screw: M3x8. M3x6 works too.
 Two version:
-- One with a PCB feature. I need to be explained what this PCB feature is.
-- One without PCB feature.
+- One with a PCB feature. It is just an adaptation from the original design but as for now it is not possible to mount the PCB, The PCB version is useless. Will try to make it possible.
+- One without PCB feature (noPCB).

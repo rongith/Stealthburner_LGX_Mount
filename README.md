@@ -33,12 +33,12 @@ All photos are not of the same design iteration. I didn't want to shoot the whol
 
 - Mounting options
 
-| One piece | PCB Support | Files to print| 
-|---|---|---|
-| Yes | No | LGX_SB_Mount-rxxx - 1-2-NoPCB |
-| Yes | Yes | LGX_SB_Mount-rxxx - 1-2-PCB |
-| No | No | LGX_SB_Mount-rxxx - 1-NoPCB / LGX_SB_Mount-rxxx - 2 |
-| No | Yes | LGX_SB_Mount-rxxx - 1-PCB / LGX_SB_Mount-rxxx - 2|
+| CW1 | CW2 | One piece | PCB Support | Files to print| 
+|---|---|---|---|---|
+|No|Yes| Yes | No | LGX_SB_Mount-rxxx - 1-2-NoPCB |
+|No|Yes| Yes | Yes | LGX_SB_Mount-rxxx - 1-2-PCB |
+|Yes|Yes| No | No | LGX_SB_Mount-rxxx - 1-NoPCB / LGX_SB_Mount-rxxx - 2 |
+|Yes|Yes| No | Yes | LGX_SB_Mount-rxxx - 1-PCB / LGX_SB_Mount-rxxx - 2|
 
 - Cover
 
@@ -59,7 +59,7 @@ Put insert in the 3 holes.
 
 Take care to get the insert quite well straight. It is for the Stealthburner to move easily along the M3x25 screws afterward when you want to swap the toolhead.
 
-The insert on the left (of the photo) edge is to screw a future cover.
+The insert on the left (of the photo) edge is to screw the cover.
 
 ![001-3.jpg](./Images/001-3.jpg)
 In case you want to use the rail carriage that has holes to screw on the back (CW1), add two more inserts in the back of the part.

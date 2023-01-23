@@ -6,7 +6,7 @@
 2. [Credits](#credits)
 3. [Parts](#parts)
 4. [LGX Mounting](#lgx-mounting)
-5. [Features I wanted](#features-i-wanted)
+5. [Features I took care of](#features-i-took-care-of)
 
 ***
 
@@ -17,7 +17,7 @@ I didn't find a mounting with some bells and whistles I wanted to use my LGX wit
 
 It is be compatible with both versions of rail carriage. The one we screw on the back (Afterburner carriage with CW1) and the one we screw on the front (Stealthburner carriage with CW2).
 
-The PCB mounting is optionnal.
+The Afterburner PCB (LDO) mounting is optionnal. I'm trying to implement the Stealthburner PCB.
 
 The 3D printed parts may not follow the Voron design recommendations.
 
@@ -90,8 +90,9 @@ Mount the toolhead. Take attention to not pinch the toolhead wires between the S
 ![020.jpg](./Images/020.jpg)
 Screw the cover and Voilà.
 
-## Features I wanted
+## Features I took care of
 
+- Works for CW1 and CW2 rail carriage models.
 - Inserts for Stealthburner Fan assembly on the good side.
 ![InsertsGoodSide.jpg](./Images/InsertsGoodSide.jpg)
 - Can see how far goes your PTFE tube

@@ -27,14 +27,16 @@ All photos are not of the same design iteration. I didn't want to shoot the whol
 
 - Thanx to @errornumber419 for the design of adding the PCB support directly on the mounting.
 
-- The cover is based on wile.e1 cover for Stealthburner and CW1 (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover)
+- The cover is based on wile.e1 cover for Stealthburner and CW1 (<https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover>)
 
 ## Parts
 
 - Mounting options
+  - Normal files are in "Standard" folder
+  - OctotapV2 files are in "OctotapV2" folder. You can use OctotapV2 files even if you don't have it. It does only level up the mounting to 2mm to set some clearance for the OctotapVé PCB.
 
-| CW1 | CW2 | One piece | PCB Support | Files to print| 
-|---|---|---|---|---|
+| CW1<br>carriage | CW2<br>carriage | All in<br>one part | PCB<br>Support | Files to print|
+|:---:|:---:|:---:|:---:|---|
 |No|Yes| Yes | No | LGX_SB_Mount-rxxx - 1-2-NoPCB |
 |No|Yes| Yes | Yes | LGX_SB_Mount-rxxx - 1-2-PCB |
 |Yes|Yes| No | No | LGX_SB_Mount-rxxx - 1-NoPCB / LGX_SB_Mount-rxxx - 2 |
